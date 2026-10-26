@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/index.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/quiet-spaces.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/study-rooms.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/campus-areas.html</loc></url>
+  <url>
+    <loc>https://bennethussey7-png.github.io/Hawkeye-Study-Spots/</loc>
+  </url>
+  <url>
+    <loc>https://bennethussey7-png.github.io/Hawkeye-Study-Spots/quiet-spaces.html</loc>
+  </url>
+  <url>
+    <loc>https://bennethussey7-png.github.io/Hawkeye-Study-Spots/study-rooms.html</loc>
+  </url>
+  <url>
+    <loc>https://bennethussey7-png.github.io/Hawkeye-Study-Spots/campus-areas.html</loc>
+  </url>
 </urlset>
