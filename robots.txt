@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace YOUR-USERNAME and YOUR-REPOSITORY with your published GitHub Pages URL.
-Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
+Sitemap: https://bennethussey7-png.github.io/Hawkeye-Study-Spots/sitemap.xml
